@@ -1,0 +1,1 @@
+cmd_/home/wenqi/Downloads/membucket/host-membucket/memflex.ko := ld -r -m elf_x86_64 -T /home/wenqi/Downloads/linux-3.14.4/scripts/module-common.lds --build-id  -o /home/wenqi/Downloads/membucket/host-membucket/memflex.ko /home/wenqi/Downloads/membucket/host-membucket/memflex.o /home/wenqi/Downloads/membucket/host-membucket/memflex.mod.o
